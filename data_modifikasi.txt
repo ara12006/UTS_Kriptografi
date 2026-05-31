@@ -1,0 +1,7 @@
+Nama Saya: Mutiara
+Nim: 105841103524
+Fakultas: Teknik
+Prodi: Informatika
+Kampus: Universitas Muhammadiyah Makassar
+Mata Kuliah: Kriptografi
+Semester: 4 (empat)
